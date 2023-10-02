@@ -1,4 +1,13 @@
-# AI Image Generator 
+# AI Image Generator
+
+## Home Page
+![Home Page](https://github.com/naveenbisht31/AI-Image-Generator/assets/126242798/f2e624cc-1c00-4c3f-a990-2cf2006756d7)
+
+## Create Post
+![Create Post](https://github.com/naveenbisht31/AI-Image-Generator/assets/126242798/60da9753-5995-4a3c-9e19-62471e111637)
+
+## Search Image
+![Search Image](https://github.com/naveenbisht31/AI-Image-Generator/assets/126242798/5e6d3edd-98a0-4359-81d3-27d6a119635b)
 
 ## Overview
 This dynamic MERN - based web application harnesses the powerful OpenAI DALL-E model to empower users worldwide in generating unique and artistic AI images. Seamlessly integrated with Cloudinary, the platform ensures secure storage and efficient management of the generated images. Users can creatively express themselves by creating posts featuring their AI-generated masterpieces and explore an engaging gallery of posts shared by others.
