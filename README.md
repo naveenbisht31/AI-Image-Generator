@@ -58,13 +58,13 @@ npm install
 
 Create a file named `.env` in the server directory with the following content:
 ```bash
-MONGODB_URI=your_mongodb_uri
+MONGODB_URL = your_mongodb_url
 
-OPENAI_API_KEY=your_openai_api_key
+OPENAI_API_KEY = your_openai_api_key
 
-CLOUDINARY_CLOUD_NAME=your_cloudinary_cloud_name
-CLOUDINARY_API_KEY=your_cloudinary_api_key
-CLOUDINARY_API_SECRET=your_cloudinary_api_secret
+CLOUDINARY_CLOUD_NAME = your_cloudinary_cloud_name
+CLOUDINARY_API_KEY = your_cloudinary_api_key
+CLOUDINARY_API_SECRET = your_cloudinary_api_secret
 ```
 
 Start the client:
